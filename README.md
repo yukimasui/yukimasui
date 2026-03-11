@@ -26,3 +26,9 @@
 洗濯機の終了音をESP32で検知し、MQTTを介してKIOSK端末に通知するシステム。
 - ESP32 / FFT / MQTT / Rust / Slint / Ubuntu Server
 - 🚧 開発中（FFTによる洗濯中ノイズ由来の誤作動対策中...）
+
+
+### [https://github.com/yukimasui/stm32-modbus-remote-io_for-robot/tree/main]
+ロボットの機内配線を活用して外部配線レスを目指しています。
+- Modbus / STM32
+- 構想中

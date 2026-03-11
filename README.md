@@ -28,7 +28,7 @@
 - 🚧 開発中（FFTによる洗濯中ノイズ由来の誤作動対策中...）
 
 
-### [https://github.com/yukimasui/stm32-modbus-remote-io_for-robot/tree/main]
+### [https://github.com/yukimasui/stm32-modbus-remote-io_for-robot]
 ロボットの機内配線を活用して外部配線レスを目指しています。
 - Modbus / STM32
 - 構想中

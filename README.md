@@ -19,3 +19,10 @@
 - 制御盤製作（第二種電気工事士 合格）
 - ラダー回路設計（ゼロベースからの作成経験あり）
 - ロボットティーチング: FANUC, 川崎重工, 不二越, DENSO
+
+## Projects
+
+### [https://github.com/yukimasui/my-home_laundry-done-notifier]
+洗濯機の終了音をESP32で検知し、MQTTを介してKIOSK端末に通知するシステム。
+- ESP32 / FFT / MQTT / Rust / Slint / Ubuntu Server
+- 🚧 開発中（FFTによる洗濯中ノイズ由来の誤作動対策中...）

@@ -1,16 +1,21 @@
-## Hi there 👋
+# [増井 友紀] / [Yuki Masui]
 
-<!--
-**yukimasui/yukimasui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+生産技術として設備設計・制御業務に従事しています。  
+業務で応用できると感じた技術を自宅環境で検証し、
+その成果をこちらで公開しています。  
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CAD
+- 2D CAD: AutoCAD, IJCAD
+- 3D CAD: CATIA, Autodesk Inventor, SolidWorks (個人)
+
+### 加工・製造
+- 汎用工作機械: 旋盤, フライス盤, 研削盤
+- NC工作機械: 旋盤, フライス盤, ワイヤ放電加工機
+
+### 電気・制御
+- 制御盤製作（第二種電気工事士 合格）
+- ラダー回路設計（ゼロベースからの作成経験あり）
+- ロボットティーチング: FANUC, 川崎重工, 不二越, DENSO

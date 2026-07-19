@@ -9,7 +9,7 @@
 
 ### CAD
 - 2D CAD: AutoCAD, IJCAD
-- 3D CAD: CATIA, Autodesk Inventor, SolidWorks (個人)
+- 3D CAD: CATIA, Autodesk Inventor, SolidWorks (個人向けライセンス)
 
 ### 加工・製造
 - 汎用工作機械: 旋盤, フライス盤, 研削盤
@@ -17,7 +17,7 @@
 
 ### 電気・制御
 - 制御盤製作（第二種電気工事士 合格）
-- ラダー回路設計（主にKEYENCE、ゼロベースからの作成経験あり）
+- ラダー回路設計（主にKEYENCE）
 - ロボットティーチング: FANUC, 川崎重工, 不二越, DENSO
 
 ## Projects

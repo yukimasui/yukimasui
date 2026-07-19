@@ -32,3 +32,8 @@
 ロボットの機内配線を活用して外部配線レスを目指しています。
 - Modbus / STM32
 - 構想中
+
+### [https://github.com/yukimasui/team-timeline]
+プロジェクトのガントチャート・ノード可視化風アプリ
+- Rust / React
+- develop Branchにて開発中

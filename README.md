@@ -33,7 +33,7 @@
 - Modbus / STM32
 - 構想中
 
-### [https://github.com/yukimasui/team-timeline]
+### [Team-Timeline](https://github.com/yukimasui/team-timeline)
 プロジェクトのガントチャート・ノード可視化風アプリ
 - Rust / React
 - develop Branchにて開発中

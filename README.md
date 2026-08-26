@@ -14,6 +14,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![egui](https://img.shields.io/badge/egui-2E2E2E)
 
+![ymcad の画面](https://raw.githubusercontent.com/yukimasui/ymcad/main/docs/images/screenshot.png)
+
 AutoCAD ライクな操作性を持つ 2D 専用 CAD。Rust + egui 製、Ubuntu ネイティブ。
 
 **作った理由** — 仕事では 2D CAD を日常的に使いますが、趣味で使うには市販ソフトは
